@@ -9,10 +9,13 @@ cambio desde dev
 
 aquí intentamos cambiar a dev hija 1
 
+<<<<<<< Updated upstream
 cambio desde dev
 
 aquí intentamos cambiar a dev hija 1
 
+=======
+>>>>>>> Stashed changes
 
 
 Cambios para rama dev_1_0
